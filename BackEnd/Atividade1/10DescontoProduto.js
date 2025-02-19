@@ -1,5 +1,6 @@
-const preco = 1600;
-const desconto = 10;
-const valor = preco-(preco/desconto);
+const preco = 100;
+const desconto = 50;
 
-console.log(valor);
+const total = preco-(preco * (desconto / 100));
+
+console.log(total);
