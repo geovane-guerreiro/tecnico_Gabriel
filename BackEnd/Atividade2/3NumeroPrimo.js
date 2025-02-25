@@ -10,9 +10,9 @@ function primo(numero){
         }
     }
     if(verificador == 2){
-       return console.log("O numero ", numero," é primo.")
+       return console.log("O numero ", numero," é primo.");
     }else{
-        return console.log("O numero ", numero," não é primo.")
+        return console.log("O numero ", numero," não é primo.");
     }
 
 }
