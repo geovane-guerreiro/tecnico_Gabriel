@@ -7,4 +7,4 @@ function fibonacci(numero){
     return sequencia;
 }
 
-console.log(fibonacci(5))
+console.log(fibonacci(5));
