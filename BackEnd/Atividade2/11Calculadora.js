@@ -1,5 +1,5 @@
-let num1;
-let num2;
+let num1 = 4;
+let num2 = 2;
 
 function Soma(){
     return num1 + num2;
@@ -22,8 +22,7 @@ return num1 * num2;
 }
 
 
-num1 = 5;
-num2 = 2;
+
 
 console.log()
 console.log("O resultado da soma é ",Soma());
